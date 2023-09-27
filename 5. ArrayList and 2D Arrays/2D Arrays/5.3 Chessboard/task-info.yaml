@@ -7,7 +7,7 @@ files:
   - name: src/Chessboard.java
     visible: true
     placeholders:
-      - offset: 124
+      - offset: 123
         length: 443
         placeholder_text: /* Create and print a chessboard. */
         initial_state:
