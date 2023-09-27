@@ -14,7 +14,6 @@ public class Chessboard
                chessboard[y][x] = '\u25A0';
          }
       }
-
       for (char[] row: chessboard)
       {
          for (char square: row)
